@@ -139,7 +139,7 @@ body {
   /* Section container */
   .section {
     height: 100vh; /* Make the section tall for scrolling effect */
-    background: url('/eductaion-crisis-bg.jpg') no-repeat center center fixed;
+    background: url('https://github.com/princechamp07/clone-assignment/blob/main/eductaion-crisis-bg.jpg') no-repeat center center fixed;
     background-size: cover;
     display: flex;
     align-items: flex-start;
